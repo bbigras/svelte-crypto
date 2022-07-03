@@ -14,5 +14,8 @@
 		"@sveltejs/kit": "next",
 		"svelte": "^3.44.0"
 	},
-	"type": "module"
+	"type": "module",
+	"dependencies": {
+		"svelte-kit-cookie-session": "^3.0.5"
+	}
 }
